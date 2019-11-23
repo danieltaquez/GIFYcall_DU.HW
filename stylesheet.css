@@ -12,7 +12,7 @@
 
 
 #l-sidebar {
-  background-color: #556468;
+  background-color: #004445;
   color: #FBF9FB;
   height: 100vh;
 
@@ -40,7 +40,7 @@
 }
 
 form {
-  border: 2px ridge #CECCCE;
+  border: 2px ridge #2c7873;
   padding: 1vw;
   border-radius: 5px;
 }
